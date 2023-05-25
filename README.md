@@ -8,8 +8,6 @@ MonReader is a new mobile document digitization experience for the blind, for re
 
 ![image](https://github.com/vhlucca/9sKJu9g1WUnmEjL9/assets/36247133/6efc3b0f-b70a-4376-ac48-49eaa6455190)
 
-MonReader is a new mobile document digitalization experience for the blind, for researchers and for everyone else in need for fully automatic, highly fast and high-quality document scanning in bulk. It is composed of a mobile app and all the user needs to do is flip pages and everything is handled by MonReader: it detects page flips from low-resolution camera preview and takes a high-resolution picture of the document, recognizing its corners and crops it accordingly, and it dewarps the cropped document to obtain a bird's eye view, sharpens the contrast between the text and the background and finally recognizes the text with formatting kept intact, being further corrected by MonReader's ML powered redactor.
-
 ![image](https://github.com/vhlucca/9sKJu9g1WUnmEjL9/assets/36247133/10a0832c-8d3e-4996-81c4-6a183f0c876e)
 
 ## Data Description:
